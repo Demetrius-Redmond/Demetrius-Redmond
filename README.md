@@ -26,11 +26,9 @@ Tools:
 
 <p align="center">
 <img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api/top-langs/?username=Demetrius-Redmond&layout=compact&langs_count=20&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&theme=synthwave" align = "center"/>
-<img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api?username=Demetrius-Redmond&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR&theme=synthwave" align = "center"/>
-</p>
+<img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api?username=Demetrius-Redmond&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR&theme=synthwave" align = "center"/><br/><br/>
 
-<div id="badges">
-  <a href="www.linkedin.com/in/demetrius-redmond-15b632326">
+<a href="https://www.linkedin.com/in/demetrius-redmond-15b632326">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Demetrius-Redmond/">
@@ -39,9 +37,15 @@ Tools:
   <a href="https://x.com/DemetriusR5579">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://underdog-devs.slack.com/team/U06D5K52MFT">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   </a>
-</div>
+
+
+
+  
+</p>
+
+
 
 

@@ -30,7 +30,7 @@ Self-Taught Developer
 <p align="center">
 <img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api/top-langs/?username=Demetrius-Redmond&layout=compact&langs_count=20&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&theme=synthwave" align = "center"/>
 <img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api?username=Demetrius-Redmond&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR&theme=synthwave" align = "center"/><br/><br/><br/><br/>  
-<strong>Social</strong><br/>
+<strong>Social</strong><br/><br/>
 <a href="https://www.linkedin.com/in/demetrius-redmond-15b632326">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

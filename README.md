@@ -36,7 +36,7 @@ Tools:
   <a href="https://leetcode.com/u/Demetrius-Redmond/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
-  <a href="[your-twitter-URL](https://x.com/DemetriusR5579)">
+  <a href="https://x.com/DemetriusR5579">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="your-twitter-URL">

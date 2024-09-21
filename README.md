@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Demetrius. Welcome to my Github!</h1>
 
 <p align="center">
-Self-Taught Developer
+Software Developer
 </p><br/><br/>
 
 **About Me** 👨‍💻
